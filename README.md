@@ -1,3 +1,3 @@
-#Genai
-##Text prompting app
+# Genai
+## Text prompting app
 Experiment with hardware integrated ai-core.
